@@ -1,0 +1,3 @@
+[submodule "MyMedi-FE"]
+	path = MyMedi-FE
+	url = https://github.com/LikeCowardLion/FrontEnd.git
