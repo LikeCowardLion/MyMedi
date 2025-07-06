@@ -37,7 +37,7 @@ MyMedi와 함께 '즐거운 건강함'을 경험해 보세요! 💪✨
 
 ## 💻 예시 화면
 
-### 🎮 Unity 콘텐츠 (3D 운동 게임)
+### 🎮 Unity 콘텐츠
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/4cf562d0-ffbb-41ad-b785-79182cc29797" />
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/4c0f18c0-d6c8-4d73-9083-f83724da918d" />
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/998041ca-2b56-4fc9-9cf6-85ea06ca4c56" />
